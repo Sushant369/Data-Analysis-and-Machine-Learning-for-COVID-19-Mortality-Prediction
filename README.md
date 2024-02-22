@@ -1,1 +1,1 @@
-# Data-Analysis-and-Machine-Learning-for-COVyID-19-Mortality-Prediction
+# Data-Analysis-and-Machine-Learning-for-COVID-19-Mortality-Prediction
